@@ -50,6 +50,10 @@ INSTALLED_APPS = [
 #     'PAGE_SIZE': 10
 # }
 
+REST_FRAMEWORK = {
+    'PAGE_SIZE': 1
+}
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',

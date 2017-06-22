@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c69e378c-71ea-4d48-9616-40d54e8a2643" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restclient/serializers.py" afterPath="$PROJECT_DIR$/restclient/serializers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restclient/urls.py" afterPath="$PROJECT_DIR$/restclient/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestTest/settings.py" afterPath="$PROJECT_DIR$/RestTest/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,6 +54,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RestTest/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/restclient/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,7 +110,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/restclient/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="303">
@@ -131,13 +140,13 @@
         <option value="$PROJECT_DIR$/RestTest/models.py" />
         <option value="$PROJECT_DIR$/restclient/admin.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-        <option value="$PROJECT_DIR$/RestTest/settings.py" />
         <option value="$PROJECT_DIR$/restclient/models.py" />
         <option value="$PROJECT_DIR$/restclient/permissions.py" />
         <option value="$PROJECT_DIR$/RestTest/urls.py" />
         <option value="$PROJECT_DIR$/restclient/views.py" />
         <option value="$PROJECT_DIR$/restclient/serializers.py" />
         <option value="$PROJECT_DIR$/restclient/urls.py" />
+        <option value="$PROJECT_DIR$/RestTest/settings.py" />
       </list>
     </option>
   </component>
@@ -658,14 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RestTest/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="14" lean-forward="false" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -784,6 +785,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/restclient/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/restclient/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -794,13 +805,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/restclient/urls.py">
+    <entry file="file://$PROJECT_DIR$/RestTest/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="261">
+          <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
