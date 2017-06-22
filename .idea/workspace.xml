@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c69e378c-71ea-4d48-9616-40d54e8a2643" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/restclient/permissions.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/restclient/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/restclient/migrations/0002_snippet.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restclient/models.py" afterPath="$PROJECT_DIR$/restclient/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restclient/serializers.py" afterPath="$PROJECT_DIR$/restclient/serializers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestTest/urls.py" afterPath="$PROJECT_DIR$/RestTest/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restclient/urls.py" afterPath="$PROJECT_DIR$/restclient/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restclient/views.py" afterPath="$PROJECT_DIR$/restclient/views.py" />
     </list>
@@ -74,23 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/restclient/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RestTest/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="218">
+              <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -108,11 +91,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restclient/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/restclient/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="70" lean-forward="true" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -140,11 +135,11 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/RestTest/settings.py" />
         <option value="$PROJECT_DIR$/restclient/models.py" />
-        <option value="$PROJECT_DIR$/restclient/urls.py" />
-        <option value="$PROJECT_DIR$/RestTest/urls.py" />
         <option value="$PROJECT_DIR$/restclient/permissions.py" />
         <option value="$PROJECT_DIR$/restclient/serializers.py" />
+        <option value="$PROJECT_DIR$/RestTest/urls.py" />
         <option value="$PROJECT_DIR$/restclient/views.py" />
+        <option value="$PROJECT_DIR$/restclient/urls.py" />
       </list>
     </option>
   </component>
@@ -498,6 +493,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="-8" width="1306" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25361156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -507,7 +503,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39938557" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39938557" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985553" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -697,34 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/restclient/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/restclient/permissions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RestTest/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/8defc835/afa9feb5-7122-4d11-9542-2a9bb5f6f989/main.django_admin_log">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -790,6 +758,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/restclient/permissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/restclient/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -800,12 +776,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RestTest/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/restclient/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        <state relative-caret-position="255">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="41" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restclient/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="70" lean-forward="true" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
