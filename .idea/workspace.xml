@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c69e378c-71ea-4d48-9616-40d54e8a2643" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restclient/views.py" afterPath="$PROJECT_DIR$/restclient/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,8 +103,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/restclient/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="46" column="53" lean-forward="false" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
+            <state relative-caret-position="357">
+              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="30" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -629,8 +628,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/restclient/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="46" column="53" lean-forward="false" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
+        <state relative-caret-position="357">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="30" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
           </folding>
